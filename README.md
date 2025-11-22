@@ -21,5 +21,5 @@ WinAPI 활용한 벨트스크롤 2D 액션 게임
 가장 우선순위가 높은 [D 방어] 키가 입력됨에 따라 기존 커맨드 값이 초기화되는 모습
 
 ### 싱글톤 패턴을 이용한 매니저 기반 프레임워크 구현
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/f45b5668-e625-4397-8979-4247fb1c1d17" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/f45b5668-e625-4397-8979-4247fb1c1d17" /><br>
 객체 생성을 1회로 제한하기 위한 DECLARE_SINGLETON 매크로와 외부에서의 생성을 막기 위한 private 생성자
